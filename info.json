@@ -1,8 +1,14 @@
 {
-    "name": "metal-and-stars-graphics",
-    "version": "0.0.4",
-    "title": "Metal and Stars graphics",
-    "author": "5forSilver",
-    "description": "Assets for Metal and Stars mod",
-    "factorio_version": "2.0"
+  "name": "metal-and-stars-graphics-updated",
+  "version": "0.0.5",
+  "title": "Metal and Stars graphics: Updated",
+  "author": "5forSilver; johnmart19 / FactorioMods",
+  "description": "Assets for Metal and Stars mod",
+  "factorio_version": "2.1",
+  "migrates_from": [
+    "metal-and-stars-graphics"
+  ],
+  "dependencies": [
+    "base >= 2.1.24"
+  ]
 }
